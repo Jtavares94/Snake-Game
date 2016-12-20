@@ -1,0 +1,60 @@
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\snake.exe
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\snake.pdb
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\SharpDX.dll
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\SharpDX.xml
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\Microsoft Visual Studio Projects\snake\snake\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Microsoft Visual Studio Projects\snake\snake\obj\x86\Debug\snake.csprojResolveAssemblyReference.cache
+D:\Microsoft Visual Studio Projects\snake\snake\obj\x86\Debug\snake.exe
+D:\Microsoft Visual Studio Projects\snake\snake\obj\x86\Debug\snake.pdb
+D:\Microsoft Visual Studio Projects\Snake\snake\bin\Windows\x86\Debug\Content\Doge.xnb
+D:\Microsoft Visual Studio Projects\Snake\snake\bin\Windows\x86\Debug\Content\darkgreen.xnb
+D:\Microsoft Visual Studio Projects\Snake\snake\bin\Windows\x86\Debug\Content\lightblue.xnb
+D:\Microsoft Visual Studio Projects\Snake\snake\bin\Windows\x86\Debug\Content\apple.xnb
+D:\Microsoft Visual Studio Projects\Snake\snake\bin\Windows\x86\Debug\Content\wall.xnb
+C:\Users\nano\Desktop\snake\snake\obj\x86\Debug\snake.exe
+C:\Users\nano\Desktop\snake\snake\obj\x86\Debug\snake.pdb
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\Content\apple.xnb
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\Content\darkgreen.xnb
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\Content\Doge.xnb
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\Content\lightblue.xnb
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\Content\wall.xnb
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\snake.exe
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\snake.pdb
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\nano\Desktop\snake\snake\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\nano\Desktop\snake\snake\obj\x86\Debug\snake.csprojResolveAssemblyReference.cache

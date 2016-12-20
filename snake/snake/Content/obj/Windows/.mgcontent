@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Microsoft Visual Studio Projects/Snake/snake/Content/Doge.jpg</File>
+    <File>D:/Microsoft Visual Studio Projects/Snake/snake/Content/darkgreen.png</File>
+    <File>D:/Microsoft Visual Studio Projects/Snake/snake/Content/lightblue.png</File>
+    <File>D:/Microsoft Visual Studio Projects/Snake/snake/Content/apple.jpg</File>
+    <File>D:/Microsoft Visual Studio Projects/Snake/snake/Content/wall.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>
